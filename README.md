@@ -12,3 +12,7 @@ echo "To jest KOD!"
 _Italic text_
 **Bold**
 __BOLD__
+
+__combine *italic* and bold__
+__black__
+*white*
